@@ -1,6 +1,6 @@
 # Description
 
-This repository is meant to serve as a general template for how to set up new repositories in the JogetOSS organization. 
+Web Service Plugin to proxy file download from another url, with ability to set Content-Type and Content-Disposition filename
 
 # Getting Help
 
